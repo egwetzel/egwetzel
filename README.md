@@ -6,4 +6,4 @@ I'm currently studying Information Systems at Carnegie Mellon University with mi
 - I have an internship right now (summer 2022) for Youth Enrichment Services, where I get to teach both a coding class and a web development course to students in the Pittsburgh area.
 
 ### How to Reach Me
-- [LinkedIn] (www.linkedin.com/in/emmeline-wetzel)
+- LinkedIn (www.linkedin.com/in/emmeline-wetzel)
